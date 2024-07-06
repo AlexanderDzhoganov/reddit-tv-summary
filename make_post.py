@@ -1,15 +1,20 @@
 import os
 import argparse
-import json
+import time
 from dotenv import load_dotenv
 from parse_extracted import get_show_data
 
 load_dotenv()
 
-prelude = """
-Weekly superautomated AI recap of the top discussed shows on "What are you watching and what do you recommend?".
+header = """
+Weekly superautomated AI recap of the most discussed shows on "What are you watching and what do you recommend?".
 
 This week's top shows:
+"""
+
+footer = f"""
+Code and data open-source on [GitHub](https://github.com/AlexanderDzhoganov/reddit-tv-summary).
+Last update @ {time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())}.
 """
 
 
@@ -34,12 +39,14 @@ def main(args):
     shows = sorted(shows, key=lambda x: x[0])
 
     with open(args.output_path, "w") as f:
-        f.write(f"{prelude}\n")
+        f.write(f"{header}\n")
 
         for show_name, summary in shows:
             f.write(f"**{show_name}**\n\n")
             f.write(f"{summary}\n\n")
             f.flush()
+
+        f.write(f"{footer}\n")
 
     print(f"Saved {len(shows)} shows to {args.output_path}")
 
