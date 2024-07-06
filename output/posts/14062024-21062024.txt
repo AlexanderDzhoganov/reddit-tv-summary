@@ -1,0 +1,75 @@
+
+### Weekly superautomated AI recap of the most discussed shows on "What are you watching and what do you recommend?"
+
+June 14, 2024 - June 21, 2024
+
+---
+
+**Colin From Accounts**
+
+Alright, gather 'round, folks. Turns out **Colin From Accounts** was the crown jewel of TV comedies last week, with Redditors tripping over themselves to sing its praises—every detail tighter and funnier than their lives. 🏆 Fast forward to this week, and suddenly episode 7 has turned more heads than a car accident. "Best show ever!" becomes "I'm not even watching season 2" faster than you can say "Yvette/a vet." Guess the only thing more inconsistent than the characters are the fans themselves. 🌪️ #QualityControlMuch?
+
+---
+
+**Dark Matter**
+
+🚀🥱 *Dark Matter* – a show that proves you can throw sci-fi jargon at a wall and hope something sticks. Commenters last week were like "Wow, what a journey! Can't wait for the finale!" 😆 And this week? "Nailed the landing" and "Apple TV is killing sci-fi!" 🙄 It's like watching your uncle try to explain quantum mechanics at Thanksgiving: fascinating at first, then just deeply confusing. But hey, at least everyone agrees – it's definitely *a show* that *exists*. 🌌
+
+---
+
+**Doctor Who**
+
+🎉 Oh, *Doctor Who* fans, what a rollercoaster you ride! One week you're hyperventilating over a Bridgerton parody and Ncuti Gatwa's magnificent sobs, the next you're begrudgingly accepting RTD's signature "whoops, all is back to normal" finales. 🤡
+
+Last week, the chorus was "Best season EVER!" Now it's a collective facepalm over the anticlimactic ending, with folks longing for the cerebral days of *The Impossible Planet*. 😅 Bravo, Whovians, for proving once again that *Doctor Who* is really just a perpetual cycle of build-up and let-down. RTD: still writing finales like it's 2006. ✨
+
+---
+
+**Evil**
+
+**Evil**: where a priest-in-training, a carpenter, and a psychologist walk into a bar… and manage to make the paranormal look as thrilling as watching paint dry. 🙄 Last week, fans were crying about having to wait for new episodes like toddlers denied candy. 🍭 Now, they're flip-flopping between calling an episode the "best ever" and whining that Michael Emerson is MIA. 🕵️‍♂️ Spoiler alert: yes, it's the final season, and yes, it's still just as "scary" as a Scooby-Doo rerun. 👻 *Watching Weekly*: the real horror here.
+
+---
+
+**House of the Dragon**
+
+Ah, *House of the Dragon*, the show that’s apparently less memorable than that sandwich you had last Tuesday. Last week’s comments were a love fest so intense it could rival a Targaryen family reunion, while this week it seems the dragon fire has cooled to a lukewarm smolder. We've gone from **"Excellent as always!"** to **"It's OK"** faster than you can say "Valyrian steel." But don’t worry, between essay-length analyses of Alicent's character arc and the riveting debate on which show is best (spoiler: it's *Dark*, in German, with subs, of course), the fans can’t seem to stop watching this medieval soap opera. 🐉💤
+
+---
+
+**Interview with the Vampire**
+
+The TV show that somehow convinced people that brooding, blood-sucking immortality is the new black. Last week's comments were a cult-like chant of "BEST SHOW EVER!" 🤩, while this week's literary essay on unreliable narrators 🤔 makes you wonder if the commenters are binge-watching or writing their dissertation. If the show is so mind-blowing, why does it feel like the viewers are trying to out-philosophize each other on Reddit? 🤷‍♂️ Season one was "tortured angsty love," and now we're diving into "Lestat's POV" while hallucinating in Dubai. Oh, the drama! 🎭
+
+---
+
+**Presumed Innocent**
+
+Ah, *Presumed Innocent*, the show that's apparently more popular than Jake Gyllenhaal's mirror. Last week, commenters were practically ready to canonize it, fawning over Gyllenhaal's mere presence and comparing it to 90s legal thrillers like it’s a lost Tarantino script. This week, the tone has shifted to "meh" with a side of "punchable DA," and an existential crisis over whether Ruth Negga deserves this. 🌟 *Dialogue is amazing!* 🌟 or so says the crowd that hasn't realized they’ve swapped their rose-tinted glasses for pitchforks. Meanwhile, someone is still waiting for *Severance* and a few are distracted by *Shorsey*. 🚀
+
+---
+
+**The Acolyte**
+
+And there it is, folks: another week of The Acolyte, a.k.a. Star Wars: The High Republic Edition of Grey’s Anatomy. Last week, the *self-proclaimed diehard* fans couldn't decide if they wanted to hate-watch or just hate, but everyone agreed on one thing: Disney's $180 million attempt at "serious" Star Wars was as cohesive as a drunk Wookiee’s karaoke night. Fast forward to this week, and we're in a dizzying waltz of episodes that start at 50 minutes but shrink faster than Han Solo's patience with C-3PO. 🌌🔥
+
+Apparently, the latest episode is the "best" live-action Star Wars ever, if you trust the 3.7 IMDb rating—clearly not rigged or anything. Meanwhile, the rest of the keyboard warriors are still mad at Disney for daring to have characters that aren't cis-het white dudes. 🤡 It's like watching a never-ending Reddit thread—entertaining for all the wrong reasons.
+
+---
+
+**The Bear**
+
+🎬 Ah, "The Bear" is back, and so is its army of armchair food critics and would-be cinephiles. Last week, everyone clutched their pearls over the show's return, proclaiming TV dead until its comeback like it’s the second coming of Breaking Bad. This week, they're melodramatically oscillating between treating it like a fine wine 🍷 they can’t start and an adrenaline shot they need to binge before a camping trip. Meanwhile, the forensic prop analysts are losing sleep over clock sightings 🕰️, and others are having existential crises mid-workout with NIN on repeat. Truly, the internet’s elite 🧠.
+
+---
+
+**The Boys**
+
+Ah, "The Boys" – a show where even the comments section has more plot twists than the actual episodes. Last week, it was all about how Hughie's side plot could put a narcoleptic to sleep and how Frenchie’s arc is about as welcome as a fart in an elevator. Fast-forward to this week, and suddenly everyone’s forgotten the snoozefest because Antony Starr’s Homelander is chewing scenery like it’s free sample day at Costco. One minute it’s “wheel-spinning” and the next it’s “the best episode ever, lol.” Reddit has spoken, and the consensus is clear: ADHD is a helluva drug. 🤡
+
+---
+
+
+Code and data open-source on [GitHub](https://github.com/AlexanderDzhoganov/reddit-tv-summary).
+Last update @ 2024-07-06 15:05:06.
+

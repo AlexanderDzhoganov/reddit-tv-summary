@@ -7,9 +7,9 @@ from parse_extracted import get_show_data
 load_dotenv()
 
 header = """
-Weekly superautomated AI recap of the most discussed shows on "What are you watching and what do you recommend?".
+Weekly superautomated AI recap of the most discussed shows on "What are you watching and what do you recommend?"
 
-This week's top shows:
+---
 """
 
 footer = f"""
@@ -44,6 +44,7 @@ def main(args):
         for show_name, summary in shows:
             f.write(f"**{show_name}**\n\n")
             f.write(f"{summary}\n\n")
+            f.write("---\n\n")
             f.flush()
 
         f.write(f"{footer}\n")

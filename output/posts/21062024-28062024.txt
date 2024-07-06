@@ -1,0 +1,73 @@
+
+### Weekly superautomated AI recap of the most discussed shows on "What are you watching and what do you recommend?"
+
+June 21, 2024 - June 28, 2024
+
+---
+
+**Dark Matter**
+
+So **Dark Matter** went from being the sci-fi messiah last week to just another "meh" show this week. 🚀 The same Reddit aficionados who were ready to name their firstborn after it are now teetering between "it’s okay" and "style over substance." 🎭 The plot holes and fuzzy physics are suddenly too glaring to ignore—funny how that works when the initial hype dies down, isn't it? Well, at least we can all agree on one thing: Apple TV is still "killing sci-fi," which is probably the most ironic statement of all. 😂📺
+
+---
+
+**Doctor Who**
+
+Ah, "Doctor Who," the interstellar merry-go-round that keeps spinning no matter how dizzy we get. Last week, the masses were lamenting RTD's predictable finales and Ncuti Gatwa's brilliance, yet somehow holding out hope like a dog waiting for a treat. This week? It's all sunshine and rainbows about Ruby and the Doctor’s chemistry—because apparently, a few "fun stories" and "good messages" 📬 can wipe away the memory of a botched landing faster than you can say "timey-wimey." 🌌 Looks like the collective memory of Whovians is as reliable as a TARDIS navigation system. 🤡
+
+---
+
+**House of the Dragon**
+
+Ah, *House of the Dragon*: the show that’s like the tragic love child of *Game of Thrones* and a medieval soap opera. Last week, commenters were practically frothing at the mouth with excitement, calling it a "masterpiece" and "scratching that GoT itch." Fast forward a week, and the bipolar parade is in full swing: some claim it's "better than anything on TV" while others would rather watch paint dry, lamenting "prequelitis" and boring palace intrigue. 🤷‍♂️ Let's just say, if this was a dragon, it'd be too busy navel-gazing to torch a village. 🐉🔥
+
+---
+
+**Interview with the Vampire**
+
+🧛‍♂️ **Interview with the Vampire**: Last week, the comments section was a shrine to unreliable narration and the genius of Sam Reid, with fans swooning over every performer's "perfect" portrayal, declaring it the best show on TV. Fast forward to this week, and the echo chamber remains strong, but now with added emojis and fanboying over Assad Zaman's "evil gremlin" act. Apparently, the show is giving everyone "Hannibal vibes," which is Reddit-speak for "we love watching beautiful people do awful things." 
+
+😂 The consensus? **Give Sam Reid all the awards**. And maybe a collective eye roll for viewers who can't seem to find a single flaw. Oh, and for the record, comparing gut-wrenching scenes to a cat meowing mid-rant? *Pure gold*.
+
+---
+
+**Presumed Innocent**
+
+Oh look, "Presumed Innocent" is back to grace us with another snooze-fest of *paint-by-numbers* legal drama—because who doesn't love watching lawyers with sex problems hash out their midlife crises? 🎨💤 Commenters have gone from breathlessly praising the high-brow drama and *OMG* Ruth Negga, to whining about week-long waits between episodes like it's the end of civilization. The only thing more tedious than the contrived twists and "modern" updates is Peter Sarsgaard's attempt to hold this crumbling cookie together. 🍪 If last week was a love letter, this week is that crumpled breakup note you find in your locker.
+
+---
+
+**Ripley**
+
+Oh, "Ripley" fans, you're **SO** predictable! One week you're all "chef's kiss" for cinematography and Zaillian's genius, the next you're rediscovering the same black-and-white "masterpiece" like it's a forgotten Picasso. 🎨 Last week, you were debating ditching it after episode one, now it's suddenly *"THOROUGHLY enthralling"* and you "can't wait for season two." 🤦‍♂️ Face it, you'd watch static if Netflix slapped "John Malkovich" on it.
+
+---
+
+**The Acolyte**
+
+**The Acolyte**: Where *Star Wars* meets the CW but with extra ✨lightsaber twirls✨ and face tattoos straight out of a teenage rebellion phase. Last week, the internet was drowning in complaints about cut-off scenes and cliffhangers that felt like a waltz in 5/4 time, but this week’s episode apparently lifted the entire saga to "the best live-action *Star Wars* ever"—just don’t mind the IMDb score of 3.7. 🤡 The oscillating praise from "CW Star Wars" to "Andor wannabe" shows that fans are in a perpetual state of indecision, kind of like the dual identity plot that’s supposedly not Jekyll and Hyde but more… Alien Covenant meets face paint? 🎭 Commenters can't decide if this show is better than *The Mandalorian* or worse than *Obi-Wan*, but who needs consistency when you’ve got space wizards and internet drama!
+
+---
+
+**The Bear**
+
+Ah, "The Bear" Season 3: where art meets a chef's wet dream and collapses into a soufflé of pretentiousness. 🍮 Last week, everyone was gushing like they’d just discovered truffle oil, swooning over the "artful" pacing and transformative character arcs. This week, the same crowd’s turned into Gordon Ramsay, skewering the show for being "all style no substance," "aimless," and "full of fluff." 🙄 Apparently, fans went from serenading Trent Reznor soundscapes to lamenting the existential crisis of a sandwich shop—and let's not even get started on the over-analytical prop critiques. 📺👨‍🍳
+
+---
+
+**The Boys**
+
+Ah, *The Boys*, the TV show that went from "OMG, Antony Starr is a god!" 🤩 to "I'm hate-watching this trainwreck" 🚂💥 faster than Homelander can zap a civilian. Last week, everyone was too busy fangirling over Karl Urban and the show's "diabolical" antics to see the writing on the wall. Fast forward a week: now it's all filler, no killer 💤, and the commenters are lamenting their lost brain cells like they lost a Tinder match. The difference? Reality finally hit like a Vought PR disaster. 🌪️
+
+---
+
+**True Detective**
+
+🌑 **True Detective: Night Country** 🌑 – because who needs coherent storytelling when you can have Jodie Foster wandering through a moody wasteland of clichés? 🙄 Last week, everyone was hyped about the *"atmosphere"* and deeply invested in the *"exploration of characters"* (read: they hadn't watched it yet). This week? 🚮 The same folks are now wading through endless complaints about bad scripts, annoying characters, and a plot full of holes. The only mystery here is why anyone is still watching. Spoiler alert: the ending sucks. 👎🔍
+
+---
+
+
+Code and data open-source on [GitHub](https://github.com/AlexanderDzhoganov/reddit-tv-summary).
+Last update @ 2024-07-06 14:44:49.
+

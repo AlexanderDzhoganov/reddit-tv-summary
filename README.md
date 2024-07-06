@@ -7,5 +7,5 @@ Contributions are welcome.
 # TODO
 
 - [ ] Improve comment extraction
-- [ ] Improve GPT prompt
+- [ ] Improve system prompts
 - [ ] CI/CD

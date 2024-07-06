@@ -41,7 +41,13 @@ def find_show_id_by_name(show_name):
     if shows_cache is None:
         shows_cache = {"aliases": {}, "shows": {}}
 
-    sorted_shows = sorted(data, key=lambda x: x["show"]["premiered"], reverse=True)
+    sorted_shows = sorted(
+        data,
+        key=lambda x: (
+            x["show"]["premiered"] if x["show"]["premiered"] else "0000-00-00"
+        ),
+        reverse=True,
+    )
     show_data = sorted_shows[0]["show"]
 
     shows_cache["aliases"][show_name] = show_data["id"]
@@ -89,9 +95,8 @@ def main(args):
         os.makedirs(os.path.dirname(args.output_path))
 
     txt = ""
-    for input_path in args.input_paths:
-        with open(input_path, "r") as f:
-            txt += f.read()
+    with open(args.input_path, "r") as f:
+        txt += f.read()
 
     show_info = {}
 
@@ -107,18 +112,20 @@ def main(args):
                 continue
 
             if show_id not in show_info:
-                show_data = get_show_data(show_id)
-                show_info[show_id] = {"show": show_data, "info": []}
+                show_info[show_id] = []
 
-            show_info[show_id]["info"].append(info)
+            show_info[show_id].append(info)
 
-    with open(args.output_path, "w") as f:
+    output_file = os.path.join(
+        args.output_path, os.path.basename(args.input_path).split(".")[0] + ".json"
+    )
+    with open(output_file, "w") as f:
         json.dump(show_info, f, indent=4)
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_paths", type=str, required=True, nargs="+")
+    parser.add_argument("--input_path", type=str, required=True)
     parser.add_argument("--output_path", type=str, required=True)
     return parser.parse_args()
 
